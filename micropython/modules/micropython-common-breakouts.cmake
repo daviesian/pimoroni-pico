@@ -1,4 +1,4 @@
-include(breakout_dotmatrix/micropython)
+#include(breakout_dotmatrix/micropython)
 include(breakout_encoder/micropython)
 include(breakout_encoder_wheel/micropython)
 include(breakout_ioexpander/micropython)
